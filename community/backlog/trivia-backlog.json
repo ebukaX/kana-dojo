@@ -262,7 +262,7 @@
       "Shodo"
     ],
     "correctIndex": 0,
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -277,7 +277,7 @@
     ],
     "correctIndex": 0,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 21,
@@ -291,7 +291,7 @@
     ],
     "correctIndex": 1,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 22,
@@ -304,7 +304,7 @@
       "Takayama"
     ],
     "correctIndex": 0,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
