@@ -483,7 +483,7 @@
     "jlpt": "N2",
     "id": 54,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "漢字の意味を文脈で推測する力が大切だ。",
@@ -491,7 +491,7 @@
     "english": "Inferring kanji meaning from context is important.",
     "jlpt": "N2",
     "id": 55,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
