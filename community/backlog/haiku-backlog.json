@@ -104,7 +104,7 @@
     "season": "Spring",
     "kigo": "Departing spring (yuku haru)",
     "notes": "A classic expression of seasonal transition and sadness.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -116,7 +116,7 @@
     "season": "Spring",
     "kigo": "Frog (kaeru)",
     "notes": "Humorous encouragement and compassion in Issa's voice.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -128,7 +128,7 @@
     "season": "Autumn",
     "kigo": "Deep autumn (aki fukaki)",
     "notes": "Evokes solitude and curiosity.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

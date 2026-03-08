@@ -165,7 +165,7 @@
     "explanation": "Do not stack ます and です in one predicate. (Pattern set 2)",
     "id": 21,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "日本語が好きをです。",
@@ -173,14 +173,14 @@
     "explanation": "好き takes が, not を. (Pattern set 2)",
     "id": 22,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "静かい部屋",
     "correct": "静かな部屋",
     "explanation": "な-adjectives require な before nouns. (Pattern set 2)",
     "id": 23,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -244,7 +244,7 @@
     "correct": "毎日日本語を勉強しているので上手になります。",
     "explanation": "ので is smoother/neutral for reason. (Pattern set 2)",
     "id": 31,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -540,7 +540,7 @@
     "correct": "東京は人が多くて、きれいです。",
     "explanation": "Use て-form to connect clauses. (Pattern set 4)",
     "id": 68,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

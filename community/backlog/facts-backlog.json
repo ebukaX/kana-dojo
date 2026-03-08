@@ -80,7 +80,7 @@
   {
     "id": 14,
     "fact": "There's a Japanese concept called 'kaizen' (改善) meaning continuous improvement, which became a cornerstone of global manufacturing practices.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1148,7 +1148,7 @@
   {
     "id": 192,
     "fact": "Japan has 'juku' (塾) - cram schools that children attend after regular school, some running until 10pm.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1449,7 +1449,7 @@
     "id": 242,
     "fact": "The Japanese word 'tokimeki' (ときめき) describes the fluttery excitement of a moment — like hearing a favorite song live.",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 243,
@@ -1466,7 +1466,7 @@
   {
     "id": 245,
     "fact": "Japan’s 'furoshiki' (風呂敷) are reusable cloth wraps that can be folded into bags for groceries or gifts.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

@@ -366,7 +366,7 @@
     "jlpt": "N5",
     "id": 41,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "駅の近くに新しいカフェができました。",
@@ -375,7 +375,7 @@
     "jlpt": "N4",
     "id": 42,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "雨が降りそうだから、傘を持って行こう。",
@@ -401,7 +401,7 @@
     "english": "The meeting ended earlier than scheduled.",
     "jlpt": "N4",
     "id": 45,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -815,7 +815,7 @@
     "english": "I'm going to join a new project from next month.",
     "jlpt": "N3",
     "id": 91,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

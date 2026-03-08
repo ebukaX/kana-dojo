@@ -212,7 +212,7 @@
     "dont": "無言で食べ始める",
     "note": "感謝を示す慣習。",
     "id": 24,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -581,7 +581,7 @@
     "dont": "食べ終わってすぐ席を立つ",
     "note": "店でも家庭でも使える。",
     "id": 65,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

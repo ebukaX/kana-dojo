@@ -997,7 +997,7 @@
     "character": "Musashi reference",
     "id": 100,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "まだまだだね",
@@ -1007,7 +1007,7 @@
     "character": "Ryoma Echizen",
     "id": 101,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "約束された勝利の剣",
@@ -1016,7 +1016,7 @@
     "game": "Fate/stay night [Realta Nua]",
     "character": "Saber",
     "id": 102,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1106,7 +1106,7 @@
     "game": "Monster Hunter series",
     "character": "Guild Handler lines",
     "id": 111,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1127,7 +1127,7 @@
     "character": "Class Zero",
     "id": 113,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "生きるってのは、戦うってことだ",
@@ -1137,7 +1137,7 @@
     "character": "Ichiban Kasuga",
     "id": 114,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "この戦い、負けられない！",
@@ -1166,7 +1166,7 @@
     "game": "Persona 5 Strikers",
     "character": "Joker",
     "id": 117,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

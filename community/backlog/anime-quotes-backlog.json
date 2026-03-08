@@ -916,7 +916,7 @@
     "english": "All I want is to live a normal life. (alt wording 40)",
     "anime": "Chainsaw Man",
     "character": "Denji",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1056,7 +1056,7 @@
     "english": "Yes! Yes! Yes! Yes! (alt wording 2) (alt wording 54)",
     "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
     "character": "DIO",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1216,7 +1216,7 @@
     "english": "You're already dead. (alt wording 18) (alt wording 70)",
     "anime": "Fist of the North Star",
     "character": "Kenshiro",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

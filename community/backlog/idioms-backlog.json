@@ -5,7 +5,7 @@
     "english": "I’d even borrow a cat’s paws",
     "meaning": "Extremely busy and desperate for help. (Set 1)",
     "id": 1,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -42,7 +42,7 @@
     "meaning": "Can keep secrets. (Set 1)",
     "id": 5,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "気が短い",
@@ -50,7 +50,7 @@
     "english": "Short-tempered",
     "meaning": "Impatient temperament. (Set 1)",
     "id": 6,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -518,7 +518,7 @@
     "english": "Add caution to caution",
     "meaning": "Take extra care. (Set 3)",
     "id": 58,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
